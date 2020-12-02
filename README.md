@@ -14,6 +14,6 @@ A c++ program that accepts up to 100x100 matrices to perform multiple operations
     The system check for addition and multiplication conditions 
     If the matrix wasn't given correctly the system output 'ERROR'  
     
-### The system has modified version works on imaginary numbers with the basic operations  
+### The system has a modified version works on imaginary numbers with the basic operations  
 
 **The project is written in C++ and made use of the CPP STL.
